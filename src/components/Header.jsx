@@ -19,7 +19,7 @@ export function Header({ myData, comparerData, clearDataCallBack }) {
         )}
         {/* TODO: add about */}
         <li className="max-md:hidden cursor-pointer hidden">About</li>
-        <a href="https://x.com/isrark005" target="_blank">
+        <a href="https://x.com/isrardotdev" target="_blank">
           Hello!
         </a>
       </ul>
